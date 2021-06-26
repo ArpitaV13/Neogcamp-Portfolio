@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+:root{
+    --primary-color:#0E4E6D;
+    --dark-gray:#374151;
+    --off-white:#E5E7EB;
+}
+
+
+
+hr{
+    margin:2rem 0rem;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    margin:0px;
+}
+
+.container {
+ padding:1rem;
+
+}
+.container-center{
+    margin:auto;
+    max-width:600px;
+}
+.links{
+    box-sizing:border-box;
+    text-decoration: none;
+    padding:0.5rem;
+     color:white; 
+     margin-top:5rem;
+     margin-bottom:1rem;
+
+}
+
+.primary-link{
+   background-color:var(--primary-color);
+   border-radius: 0.5rem;
+   color:white;
+   
+   
+}
+.secondary-link{
+    color:var(--primary-color);
+    border-radius: 0.5rem;
+    border:1px solid var(--primary-color);
+
+}
+
+.non-bullet{
+    list-style: none;
+}
+.list-item-inline{
+display:inline;
+padding:2rem;
+}
+
+.navigation{
+    background-color:var(--primary-color);
+    color:white;
+    padding:0.5rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.navigation .nav-brand{
+    font-weight: bold;
+    font-size:1.1rem;
+}
+.navigation .link{
+    color:white;
+
+}
+.navigation .nav-pills{
+    text-align:right;
+}
+.navigation .link-active{
+    font-weight: bold;
+}
+
+
+.hero{
+    padding:2rem;
+}
+.hero .hero-img{
+    max-width: 500px;
+    margin:auto;
+    display: block;
+}
+.hero .hero-heading{
+    text-align:center;
+    color:var(--dark-gray);
+    padding-top:1rem;
+}
+
+.section{
+    padding:2rem;
+}
+
+.section h1{
+    text-align:center;
+    
+}
+.ow{
+    background-color:var(--off-white);
+}
+
+
+footer{
+    background-color: var(--primary-color);
+    padding:2rem 1rem;
+    text-align:center;
+    color:white;
+    border-top-right-radius: 1rem;
+}
+
+
+.footer .links{
+    color:white;
+
+}
+.footer ul{
+    padding-inline-start:0px;
+}
+.footer .footer-header{
+    font-weight:bold;
+    font-size:large;
+}
