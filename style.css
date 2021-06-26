@@ -9,7 +9,6 @@
 
 
 
-
 hr{
     margin:2rem 0rem;
 }
@@ -17,6 +16,12 @@ body{
     font-family: 'Roboto', sans-serif;
     margin:0px;
 }
+p{
+    font-weight: 500;
+    
+
+}
+
 
 .container {
  padding:1rem;
