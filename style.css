@@ -128,7 +128,7 @@ footer{
 }
 .footer ul{
     padding-inline-start:0px;
-    
+
 }
 .footer .footer-header{
     font-weight:bold;
@@ -150,4 +150,5 @@ ul{
       text-decoration:none;
       color:var(--primary-color);
 
+      
   }
