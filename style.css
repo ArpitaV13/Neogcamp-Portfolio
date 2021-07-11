@@ -136,3 +136,16 @@ footer{
 ul{
     list-style-type: none;
 }
+.blogs-preview{
+    margin:50px,0;
+    border-bottom: 1px solid #fafafa;
+    padding:2rem;
+  }
+  .blogs-preview:hover{
+    box-shadow:1px 3px 5px rgba(0,0,0,1);
+
+  }
+  .blogs-preview a{
+      text-decoration:none;
+      color:var(--primary-color);
+  }
