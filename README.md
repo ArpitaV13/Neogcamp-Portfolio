@@ -1,8 +1,8 @@
 # Neogcamp-Portfolio
 
-[![Neog Camp](https://img.shields.io/badge/Neog-camp-brightgreen)]() 
+[![Neog Camp](https://img.shields.io/badge/Neog-camp-brightgreen)]()
+[![maintained yes](https://img.shields.io/badge/maintained-yes-blue)]() 
 
-
-Build with neogcamp.
+Made using HTML and CSS.
 
 Made Component library as well which helped a lot. 
