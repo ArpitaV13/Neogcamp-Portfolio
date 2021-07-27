@@ -156,3 +156,9 @@ ul{
 
       
   }
+
+  @media all and (max-width:480px){
+      .navigation{
+          display:block;
+      }
+  }
