@@ -158,7 +158,10 @@ ul{
   }
 
   @media all and (max-width:480px){
-      .navigation{
+      .list-item-inline{
           display:block;
+      }
+      .hero .hero-img{
+        max-width: 460px;
       }
   }
