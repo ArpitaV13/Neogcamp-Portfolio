@@ -161,7 +161,8 @@ ul{
       .list-item-inline{
           display:block;
       }
-      .hero .hero-img{
-        max-width: 450px;
+      .hero-img{
+        max-width: 400px;
+        margin:auto;
       }
   }
