@@ -124,6 +124,10 @@ footer{
 .footer .links{
     color:white;
 
+
+}
+.footer .links :hover{
+    color:black;
 }
 .footer ul{
     padding-inline-start:0px;
